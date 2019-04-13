@@ -1,2 +1,0 @@
-# noticioso.github.io
-Noticioso
